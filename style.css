@@ -1,0 +1,25 @@
+button {
+    background: #FFFFFF;
+    border: none;
+    font-size: 55px;
+    margin-left: 10px;
+    margin-right: 9px;
+}
+
+.container{
+    text-align: center;
+}
+
+.intro{
+  color: black;
+  text-align: center;
+}
+
+.prompt{
+  color: black;
+  text-align: center;
+}
+
+.message {
+  color: #FFB6C1;
+}
